@@ -43,4 +43,4 @@ var AvsAn = (function () {
 		}
 	};
 })();
-module.exports.default = AvsAn;
+module.exports = AvsAn;
