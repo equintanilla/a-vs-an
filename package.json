@@ -1,0 +1,19 @@
+{
+  "name": "a-vs-an",
+  "version": "1.0.0",
+  "description": "a-vs-an ======= Find the english language indeterminate article (\"a\" or \"an\") for a word. Based on real usage patterns extracted from the wikipedia text dump; can therefore even deal with tricky edge cases such as acronyms (FIAT vs. FAA, NASA vs. NSA) and odd symbols.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/equintanilla/a-vs-an.git"
+  },
+  "author": "Eamon Nerbonne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/equintanilla/a-vs-an/issues"
+  },
+  "homepage": "https://github.com/equintanilla/a-vs-an#readme"
+}
